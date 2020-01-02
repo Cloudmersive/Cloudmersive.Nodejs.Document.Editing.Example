@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Cloudmersive/Cloudmersive.Nodejs.Document.Editing.Example/issues"
   },
-  "homepage": "https://github.com/Cloudmersive/Cloudmersive.Nodejs.Document.Editing.Example#readme"
+  "homepage": "https://github.com/Cloudmersive/Cloudmersive.Nodejs.Document.Editing.Example#readme",
+  "dependencies": {
+    "cloudmersive-convert-api-client": "^2.2.9"
+  }
 }
